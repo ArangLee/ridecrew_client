@@ -5,7 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.ridecrew.R;
+import com.ridecrew.ridecrew.R;
+
 
 public class RegisterActivity extends AppCompatActivity {
 

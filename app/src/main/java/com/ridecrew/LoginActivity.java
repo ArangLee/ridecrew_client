@@ -8,8 +8,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.ridecrew.R;
 import com.ridecrew.RegisterActivity;
+import com.ridecrew.ridecrew.R;
 
 
 public class LoginActivity extends AppCompatActivity {
